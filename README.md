@@ -1,2 +1,2 @@
 # Sign-languages
-A simple CNN and VGG16 to classify sample numbers in sign languages.
+A simple CNN and VGG16 to classify letters and numbers in sign languages.
